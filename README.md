@@ -1,11 +1,11 @@
-![MasterHead](https://img.freepik.com/free-vector/abstract-blue-banner-with-line-geometric-polygon-vector-design-network-background-modern-science-chemistry-technology-concept-website-business-web-banner-template-brochure_181182-18916.jpg)
-<h1 align="center">Hi 👋, I'm Ran Zaaroor</h1>
-<h3 align="center">A passionate developer from Israel</h3>
+![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=%20&width=1200&height=400)
+<h1 align="center">Hello there👋, I'm Ran Zaaroor</h1>
+<h3 align="center">I'm a CS Student from Israel</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
 - 🔭 I’m currently working on **Some Unity projects**
 
-- 💬 Ask me about **Java or python.**
+- 💬 Ask me about **Java/Python.**
 
 - 📫 How to reach me **Ran.zaaroor@gmail.com**
 
