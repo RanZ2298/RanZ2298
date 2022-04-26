@@ -1,9 +1,9 @@
-![MasterHead](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)
+[![MasterHead](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)]
 <h1 align="center">Hi 👋, I'm Ran Zaaroor</h1>
 <h3 align="center">A passionate developer from Israel</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif>
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif>
 
-- 🔭 I’m currently working on **some unity projects**
+- 🔭 I’m currently working on **Some Unity projects**
 
 - 💬 Ask me about **Java or python.**
 
