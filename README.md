@@ -1,7 +1,7 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=%20&width=1200&height=400)
 <h1 align="center">Hello there👋, I'm Ran Zaaroor</h1>
 <h3 align="center">I'm a CS Student from Israel</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif\n">
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif"\n>
 
 
 - 🔭 I’m currently working on **Some Unity projects**
