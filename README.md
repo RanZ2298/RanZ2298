@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Some Unity projects**
 
-- 💬 Ask me about **Java/Python.**
+- 💬 Ask me about **Java/C.**
 
 - 📫 How to reach me **Ran.zaaroor@gmail.com**
 
